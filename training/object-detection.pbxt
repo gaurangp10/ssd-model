@@ -1,0 +1,9 @@
+item {
+  id: 1
+  name: 'mobile'
+}
+
+item {
+  id: 2
+  name: 'person'
+}
